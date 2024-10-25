@@ -1,6 +1,9 @@
 # Portfolio - Utkarsh Rawat
 Welcome to my personal portfolio project! This is a fully responsive website showcasing my skills, education, and projects, designed to highlight my web development capabilities. Built with a modern UI and a focus on accessibility, the portfolio is an example of my expertise in front-end development and UI/UX design.
 
+![Screenshot 2024-10-26 023858](https://github.com/user-attachments/assets/f26f1347-ddd5-47ea-a450-c8ac6510fd41)
+
+
 ## Features
 * About Me: A detailed introduction to my background, education, and goals as a web developer.
 * Projects: A showcase of the projects I’ve worked on, with descriptions and links.
