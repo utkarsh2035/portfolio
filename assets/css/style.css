@@ -1826,3 +1826,16 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.cursor {
+  height: 0.75rem; /* Equivalent to h-3 */
+  width: 0.75rem;  /* Equivalent to w-3 */
+  border-radius: 50%; /* Equivalent to rounded-full */
+  background-color: rgb(225, 194, 102); /* Equivalent to bg-sky-400 */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 20;
+  box-shadow: 0 4px 6px -1px rgb(225, 194, 102), 
+              0 2px 4px -1px rgb(225, 194, 102); /* Example for boxShadow */
+}
